@@ -47,10 +47,11 @@ body {
   }
 
   #output {
-    border: 1px solid var(--secondary);
+    border: 1px solid rgb(16, 16, 13);
     height: 10vh;
     width: 80%;
     margin: 1rem;
+    background-color: var(--third);
     padding: 1rem;
     font-family: "Kalam", cursive;
     font-size: medium;
